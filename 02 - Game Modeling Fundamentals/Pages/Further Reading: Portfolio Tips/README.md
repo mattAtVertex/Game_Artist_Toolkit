@@ -1,0 +1,6 @@
+# Further Reading: Portfolio Tips
+
+<h3><a class="instructure_file_link inline_disabled" href="https://magazine.artstation.com/2019/03/games-portfolio-top-10/" target="_blank">Top 10 Portfolio Tips for Game Art</a></h3>
+<p><span>At this year’s&nbsp;</span><a href="https://www.gdconf.com/" target="_blank">Game Developer’s Conference (GDC)</a><span>&nbsp;2019, art directors and lead artists from Epic, Firaxis, Riot, Valve and Insomniac talked and provided real world examples with advice on how to succeed in getting and holding an art director’s attention.</span></p>
+<p><a class="instructure_file_link inline_disabled" href="https://magazine.artstation.com/2019/03/games-portfolio-top-10/" target="_blank"><img src="https://vertexschool.instructure.com/courses/151/files/8768/preview?verifier=YwaiHhVFFx4V1dJvq0suJEG07kD3OMvARPVTZGFF" alt="3Themes-preview.png" width="400" height="200" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/151/files/8768" data-api-returntype="File"></a>&nbsp;&nbsp;</p>
+<p><a class="instructure_file_link inline_disabled" href="https://magazine.artstation.com/2019/03/games-portfolio-top-10/" target="_blank">See the article on Art Station</a></p>
